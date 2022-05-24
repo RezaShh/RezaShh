@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Reza
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in programming and learning new things
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 
 - Email: Reza1381ab@gmail.com
